@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Minjia! I'm from Singapore and once upon a time I lived in Sweden for 5 months as part of an exchange programme. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+One of the things that wowed me when I first went there is the variety of apples - beyond your regular Fuji apple, granny smith and royal gala apples that you'd regularly see in an NTUC. This website is to record the types of apples I tried and my thoughts on them :)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
